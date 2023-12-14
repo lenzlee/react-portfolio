@@ -2,6 +2,8 @@ function Intro() {
     return(
         <>
 
+        <img src="./src/assets/chicago-1800x435.jpg" />
+
         <h2>About Me</h2>
 
         <p>I am a senior web developer for the University Marketing and Communication's (UMC) Digital Team at Loyola University Chicago. My main role is managing our web content management system, TerminalFour/T4. I also help manage major web projects and contribute strategic marketing vision to the evolution of the University’s Web site.

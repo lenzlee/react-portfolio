@@ -8,7 +8,7 @@ function ProjectItem({data}) {
         <>
 
          <td>
-            <img src={img} />
+            <img class="projectItem" src={img} />
             <h3>{name}</h3>
             <div class="description"><p>{description}</p></div>
             </td>
