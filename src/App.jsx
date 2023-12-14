@@ -45,7 +45,7 @@ function App() {
     <>
   <Flex gap="middle" wrap="wrap">
     <Layout style={layoutStyle}>
-    <h1>Lenzlee Wheeler</h1>
+    <h1><a href="/" title='Lenzlee Wheeler'>Lenzlee Wheeler</a></h1>
       <Header style={headerStyle}>
         <Navbar />
       </Header>

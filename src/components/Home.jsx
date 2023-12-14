@@ -2,7 +2,7 @@ import Intro from './Intro'
 
 
 function Home() {
-    console.log('Hello there!')
+    // console.log('Hello there!')
 
     return(
         <> 

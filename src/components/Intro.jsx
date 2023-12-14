@@ -2,7 +2,7 @@ function Intro() {
     return(
         <>
 
-        <img src="./src/assets/chicago-1800x435.jpg" />
+        <img src="./src/assets/chicago-1800x435.jpg" alt="Photo of the City of Chicago" title="The City of Chicago" />
 
         <h2>About Me</h2>
 
