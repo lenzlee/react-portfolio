@@ -14,6 +14,8 @@ In this project, we were asked to create our online portfolio showcasing our pro
 
 I mostly used our Module 20 lessons for this assignment. I also referred to the following resources: 
 
+Ant Design: https://www.npmjs.com/package/antd
+
 Netlify: https://www.netlify.com/
 
 NPM SASS Package: https://www.npmjs.com/package/sass 
