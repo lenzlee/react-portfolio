@@ -67,5 +67,19 @@ button:focus-visible {
   }
 }
 img {
-  max-width: 350px;
+  width: 100%;
+  height: auto;
+}
+.description {
+  max-width: 80%;
+  margin: 0 auto;
+  padding: 0em 0em 1em 0em;
+}
+table {
+  width: 100%;
+  max-width: 100%;
+}
+
+td {
+  max-width: 100%;
 }

@@ -6,11 +6,13 @@ function ProjectItem({data}) {
     
     return(
         <>
+
          <td>
             <img src={img} />
             <h3>{name}</h3>
-            <p>{description}</p>
+            <div class="description"><p>{description}</p></div>
             </td>
+        
         </> 
     )
 

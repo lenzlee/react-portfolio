@@ -3,10 +3,12 @@ import './Navbar.scss'
 
 export default function Navbar() {
     return(
+        <>
         <nav className="navbar">
             <Link to = '/'>Home</Link>
             <Link to = '/Myprojects'>My Projects</Link>
-            <Link to = '/Contact'>Contact Me</Link>
+            <Link to = '/ToolBox'>Technical Toolbox</Link>
         </nav>
+        </>
     )
 }

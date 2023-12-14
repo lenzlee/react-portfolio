@@ -15,9 +15,12 @@ function ProjectsList( { } ){
     })
 
     return(
+    <>
+    <h2>My Projects</h2>
     <table><tbody><tr>
     {list}
     </tr></tbody></table>
+    </>
     )
 }
 
