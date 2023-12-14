@@ -1,7 +1,6 @@
 function Intro() {
     return(
         <>
-        {/* <img src="https://lenzlee.github.io/portfolio/assets/images/chicago.jpg" /> */}
 
         <h2>About Me</h2>
 
