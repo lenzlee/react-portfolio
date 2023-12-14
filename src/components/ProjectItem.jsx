@@ -1,6 +1,8 @@
-function Projects({data}) {
+import { useState } from "react"
+
+function ProjectItem({data}) {
     const { name, img, description } = data
-    console.log('hello', data)
+    console.log('hello',data)
     
     return(
         <>
@@ -14,4 +16,4 @@ function Projects({data}) {
 
 }
 
-export default Projects
+export default ProjectItem

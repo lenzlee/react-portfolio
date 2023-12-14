@@ -1,6 +1,5 @@
-import { useState } from 'react'
 import Intro from './Intro'
-import ProjectsList from './ProjectsList'
+// import ProjectsList from './ProjectsList'
 
 function Home() {
     console.log('Hello there!')
@@ -8,7 +7,7 @@ function Home() {
     return(
         <>
         <Intro />
-        <ProjectsList />
+        {/* <ProjectsList /> */}
         </> 
 
     )

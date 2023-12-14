@@ -1,4 +1,4 @@
-import Projects from "../components/Projects"
+import ProjectItem from "./ProjectItem"
 import { projectData } from "../utils/projectData"
 
 console.log(projectData)
@@ -7,7 +7,7 @@ function ProjectsList( { } ){
     
     const list = projectData.map(project => {
         return(
-        <Projects
+        <ProjectItem
             key={project.id} 
             data={project} 
         />
