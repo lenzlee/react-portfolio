@@ -35,6 +35,13 @@ h1, h1 a {
   color: #1a1a1a;
 }
 
+h2 {
+  font-size: 2em;
+  text-transform: uppercase;
+  font-weight: bold;
+  color: #1a1a1a;
+}
+
 button {
   border-radius: 8px;
   border: 1px solid transparent;

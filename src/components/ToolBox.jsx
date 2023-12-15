@@ -1,6 +1,9 @@
+import Hero from "./Hero"
+
 function ToolBox() {
     return(
         <>
+        <Hero />
         <h2>Technical Toolbox</h2>
         <h3>Languages:</h3>
 <p>HTML, CSS, XHTML, JavaScript, PHP, ColdFusion, MySQL</p>
