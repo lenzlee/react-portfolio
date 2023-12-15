@@ -52,6 +52,7 @@ button {
   background-color: #1a1a1a;
   cursor: pointer;
   transition: border-color 0.25s;
+  text-transform: uppercase;
 }
 button:hover {
   border-color: #242769;
@@ -70,7 +71,7 @@ button:focus-visible {
     color: #242769;
   }
   button {
-    background-color: #f9f9f9;
+    background-color: #ffa500;
   }
 }
 
@@ -92,7 +93,7 @@ img.smIcon {
 .description {
   max-width: 80%;
   margin: 0 auto;
-  padding: 0em 0em 1em 0em;
+  padding: 0em 0em 5em 0em;
 }
 table {
   width: 100%;
