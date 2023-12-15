@@ -6,7 +6,7 @@ export default function Navbar() {
         <>
         <nav className="navbar">
             <Link to = '/'>Home</Link>
-            <Link to = '/Myprojects'>My Projects</Link>
+            <Link to = '/Myprojects'>Projects</Link>
             <Link to = '/ToolBox'>Technical Toolbox</Link>
         </nav>
         </>

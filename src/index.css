@@ -95,6 +95,11 @@ img.smIcon {
   margin: 0 auto;
   padding: 0em 0em 5em 0em;
 }
+
+.introText {
+  padding: 0em 2em 2em 2em;
+
+}
 table {
   width: 100%;
   max-width: 100%;
