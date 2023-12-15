@@ -6,7 +6,7 @@ In this project, we were asked to create our online portfolio showcasing our pro
 
 ## URLs Submitted:
 
-* URL of the functional, deployed application on Netlify: 
+* URL of the functional, deployed application on Netlify: https://lwheeler.netlify.app/ 
 
 * My GitHub Repo URL: https://github.com/lenzlee/react-portfolio
 
@@ -27,6 +27,8 @@ React Dev Tools: https://react.dev/learn/react-developer-tools
 React Router DOM: https://www.npmjs.com/package/react-router-dom 
 
 Vite: https://vitejs.dev 
+
+Lead Image on homepage: https://www.pexels.com/search/chicago/
 
 ## User Story:
 
@@ -68,13 +70,9 @@ THEN I am presented with text or icon links to the developer’s GitHub and Link
 
 ## Screenshots:
 
-* Screenshot 1
+* My React Portfolio Screenshot
 
-![My React Portfolio Screenshot 1]( )
-
-* Screenshot 2
-
-![My React Portfolio Screenshot 2]( )
+![My React Portfolio Screenshot](./src/assets/screenshot.png)
 
 ## Contact Me
 Lenzlee Wheeler at: https://github.com/lenzlee 
